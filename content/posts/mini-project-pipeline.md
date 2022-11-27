@@ -10,8 +10,8 @@ description: ""
 license: ""
 images: []
 
-tags: []
-categories: []
+tags: ["website", "system design"]
+categories: ["weekly project"]
 
 featuredImage: ""
 featuredImagePreview: ""
