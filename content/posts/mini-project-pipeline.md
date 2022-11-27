@@ -3,7 +3,7 @@ title: "Mini Project Pipeline"
 subtitle: ""
 date: 2022-11-26T11:54:04-05:00
 lastmod: 2022-11-26T11:54:04-05:00
-draft: true
+draft: false
 author: "Cody Perakslis"
 authorLink: ""
 description: ""
